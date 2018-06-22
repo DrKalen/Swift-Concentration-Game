@@ -97,11 +97,9 @@
 		24D1A8DD20DC103B005A52CD /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
-				24D1A8DE20DC103B005A52CD /* AppDelegate.swift */,
 				24D1A8E020DC103B005A52CD /* ViewController.swift */,
 				24D1A8E220DC103B005A52CD /* Main.storyboard */,
-				24D1A8E520DC103C005A52CD /* Assets.xcassets */,
-				24D1A8E720DC103C005A52CD /* LaunchScreen.storyboard */,
+				24D1A90C20DC1055005A52CD /* New Group */,
 				24D1A8EA20DC103C005A52CD /* Info.plist */,
 			);
 			path = Concentration;
@@ -123,6 +121,16 @@
 				24D1A90020DC103C005A52CD /* Info.plist */,
 			);
 			path = ConcentrationUITests;
+			sourceTree = "<group>";
+		};
+		24D1A90C20DC1055005A52CD /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				24D1A8DE20DC103B005A52CD /* AppDelegate.swift */,
+				24D1A8E520DC103C005A52CD /* Assets.xcassets */,
+				24D1A8E720DC103C005A52CD /* LaunchScreen.storyboard */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
